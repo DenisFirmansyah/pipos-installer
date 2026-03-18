@@ -6,7 +6,7 @@
             <title>Version 0.1.0</title>
             <pubDate>Wed, 18 Mar 2026 21:00:00 +0700</pubDate>
             
-            <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.0/Pipos_Setup.exe" 
+            <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.0/Pipos_Setup_v0.1.0.exe" 
                        sparkle:version="0.1.0" 
                        sparkle:os="windows" 
                        length="52428800" 
