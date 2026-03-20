@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Pipos App Updates</title>
+        <title>PIPos App Updates</title>
         <item>
-            <title>Version 0.1.0</title>
-            <pubDate>Wed, 18 Mar 2026 21:00:00 +0700</pubDate>
+            <title>Version 0.1.1</title>
+            <pubDate>Wed, 20 Mar 2026 11:00:00 +0700</pubDate>
             
-            <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.0/Pipos_Setup_v0.1.0.exe" 
-                       sparkle:version="0.1.0+1" 
+            <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.1/Pipos_Setup_v0.1.1.exe" 
+                       sparkle:version="0.1.1+2" 
                        sparkle:os="windows" 
-                       length="14481703" 
+                       length="14526712" 
                        type="application/octet-stream" />
         </item>
     </channel>
