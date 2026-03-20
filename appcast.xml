@@ -9,7 +9,6 @@
             <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.1/Pipos_Setup_v0.1.1.exe" 
                        sparkle:version="0.1.1" 
                        sparkle:os="windows" 
-                       length="14527734" 
                        type="application/octet-stream" />
         </item>
     </channel>
