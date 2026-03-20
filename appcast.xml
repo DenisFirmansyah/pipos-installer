@@ -3,13 +3,13 @@
     <channel>
         <title>PIPos App Updates</title>
         <item>
-            <title>Version 0.1.0</title>
-            <pubDate>Wed, 20 Mar 2026 11:00:00 +0700</pubDate>
+            <title>Version 0.1.1</title>
+            <pubDate>Wed, 20 Mar 2026 12:35:00 +0700</pubDate>
             
-            <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.0/Pipos_Setup_v0.1.0.exe" 
-                       sparkle:version="0.1.0+1" 
+            <enclosure url="https://github.com/DenisFirmansyah/app-pipos-v1.0.1/releases/download/v0.1.1/Pipos_Setup_v0.1.1.exe" 
+                       sparkle:version="0.1.1" 
                        sparkle:os="windows" 
-                       length="14527115" 
+                       length="14527734" 
                        type="application/octet-stream" />
         </item>
     </channel>
