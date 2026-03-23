@@ -3,13 +3,13 @@
     <channel>
         <title>PIPos App Updates</title>
         <item>
-            <title>Version 1.2.1</title>
+            <title>Version 1.2.2</title>
             <pubDate>Wed, 23 Mar 2026 11:00:00 +0700</pubDate>
             
-            <enclosure url="https://github.com/DenisFirmansyah/pipos-pc-installer/releases/download/v1.2.1/Pipos_Setup_v1.2.1.exe" 
-                       sparkle:version="1.2.1+1" 
+            <enclosure url="https://github.com/DenisFirmansyah/pipos-pc-installer/releases/download/v1.2.2/Pipos_Setup_v1.2.2.exe" 
+                       sparkle:version="1.2.2+1" 
                        sparkle:os="windows"
-                       length="32327848" 
+                       length="32255719" 
                        type="application/octet-stream" />
         </item>
     </channel>
